@@ -6,7 +6,7 @@ int main()
 char* str;
 uint16_t x=256;
 convert(str,x);
-printf("Hello World %s\n",str);
+printf("the number is  %s\n",str);
 
 return 0;
 }
